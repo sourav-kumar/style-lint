@@ -1,0 +1,19 @@
+{
+  "name": "style-lint-project",
+  "version": "1.0.0",
+  "description": "this is the demo os style lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "style",
+    "css",
+    "lint"
+  ],
+  "author": "sourav kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^7.10.1"
+  }
+}
