@@ -2,8 +2,7 @@ var stylelint = require('stylelint');
 
 stylelint.lint({
   files: "css/*.scss"
-})
-  .then(function(data) {
+}).then(function(data) {
     console.log(data);
     // do things with data.output, data.errored,
     // and data.results
