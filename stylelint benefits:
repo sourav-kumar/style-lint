@@ -1,0 +1,16 @@
+stylelint benefits:
+
+1) more number of rule support
+
+2) we can create and extend the  rules
+
+3) Plugins are rules and sets of rules built by the community that support methodologies, toolsets, non-standard CSS features, or very specific use cases. we can use these plugin also
+like BEM specific rules
+
+4) Automatically fix some stylistic warnings
+
+5) Support for the latest CSS syntax, including custom properties, range context for media features, calc() and nesting.
+
+5) Understands CSS-like syntaxes, like scss and sugarss
+
+6) we can enable/disable rules
