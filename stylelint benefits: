@@ -14,3 +14,29 @@ like BEM specific rules
 5) Understands CSS-like syntaxes, like scss and sugarss
 
 6) we can enable/disable rules
+
+CSS Lint:
+A lint tool performs static analysis of source code and flags patterns that might be errors or otherwise cause problems for the developer.
+
+CSSLint is a tool to help point out problems with your CSS code. It does basic syntax checking as well as applying a set of rules to the code that look for problematic patterns or signs of inefficiency. The rules are all pluggable, so we can easily write your own or omit ones you don't want.
+
+
+REF : https://github.com/CSSLint/csslint
+
+STYLELINT :
+A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
+
+Features:
+
+1) Stylelint supports over 150 rules, that includes syntax errors, enforcing best practices, coding style conventions and controling what languages feature can be used
+
+2) It supports the latest CSS syntaxes , ex: media features, calc(), nesting
+
+3) It provides the option to only enable those rule that we need in our code to be applied
+
+4) Plugin support, we can create our rule as plugin and we can add them to linter. ex: scss plugin to lint scss code
+
+5) It also provide the facility to extend the rules that is shared. 
+
+REF: https://stylelint.io/
+

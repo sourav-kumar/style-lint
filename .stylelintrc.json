@@ -4,14 +4,6 @@
   ],
   "extends": "stylelint-config-standard",
   "rules": {
-    "scss/selector-no-redundant-nesting-selector": true,
-    "indentation": "tab",
-    "number-leading-zero": null,
-    "property-no-unknown": [ true, {
-      "ignoreProperties": [
-        "composes"
-      ]
-    }],
-    "unit-whitelist": ["em", "rem", "s","px","%"]
-  }
+    "color-hex-length": null,
+    "no-invalid-double-slash-comments": null
 }
