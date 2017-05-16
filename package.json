@@ -17,5 +17,8 @@
     "stylelint": "^7.10.1",
     "stylelint-config-standard": "^16.0.0",
     "stylelint-scss": "^1.4.4"
+  },
+  "dependencies": {
+    "stylelint-config-sass-guidelines": "^2.1.0"
   }
 }

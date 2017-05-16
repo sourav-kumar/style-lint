@@ -14,12 +14,14 @@
     &:focus {
       @content;
     }
-  } @else {
+  } @else if $self {
     &:hover,
     &:active,
     &:focus {
       @content;
     }
+  } @else {
+    @content;
   }
 }
 
