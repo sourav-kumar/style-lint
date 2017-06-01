@@ -1,0 +1,10 @@
+JSONError: JSON Error in /Users/sourav/Documents/style-lint-project/.stylelintrc.json:
+Unexpected end of input at 9:3
+}
+ ^
+Unexpected end of input at 9:3
+}
+ ^
+    at module.exports (/usr/local/lib/node_modules/stylelint/node_modules/parse-json/index.js:27:17)
+    at module.exports (/usr/local/lib/node_modules/stylelint/node_modules/cosmiconfig/lib/parseJson.js:7:12)
+    at /usr/local/lib/node_modules/stylelint/node_modules/cosmiconfig/lib/loadRc.js:36:19
